@@ -1,7 +1,7 @@
 {
   "name": "java-script-advanced",
   "version": "1.0.0",
-  "description": "Домашние задания по курсу \"Продвинутый курс JavaScript\" на портале GeekBrains.",
+  "description": "Домашние задания",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
